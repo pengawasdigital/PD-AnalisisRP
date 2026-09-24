@@ -1,0 +1,2105 @@
+[
+  {
+    "id": 8,
+    "nama_sekolah": "UPT SDN 001 PANTAIRAJA",
+    "tahun": "2025",
+    "filename": "RAPOR-PBD-UPT-SD-NEGERI-003-LUBUK SAKAT.xlsx",
+    "total_indikator": 29,
+    "rata_rata_skor": 48.58,
+    "indikator_naik": 0,
+    "indikator_turun": 0,
+    "jumlah_baik": 12,
+    "jumlah_sedang": 4,
+    "jumlah_kurang": 4,
+    "data": {
+      "judul": "Analisis Rapor Pendidikan UPT SDN 001 PANTAIRAJA Tahun 2025",
+      "capaian": [
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi di atas kompetensi minimum",
+          "skor_2025": 3.33,
+          "definisi_capaian": "Peserta didik mampu mengintegrasikan beberapa informasi lintas teks, mengevaluasi isi, kualitas, cara penulisan suatu teks, dan bersikap reflektif terhadap isi teks.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi mencapai kompetensi minimum",
+          "skor_2025": 80,
+          "definisi_capaian": "Peserta didik mampu membuat interpretasi dari informasi implisit yang ada dalam teks, mampu membuat simpulan dari hasil integrasi beberapa informasi dalam suatu teks.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi di bawah kompetensi minimum",
+          "skor_2025": 16.67,
+          "definisi_capaian": "Peserta didik mampu menemukan dan mengambil informasi eksplisit yang ada dalam teks serta membuat interpretasi sederhana.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi jauh di bawah kompetensi minimum",
+          "skor_2025": 0,
+          "definisi_capaian": "Peserta didik belum mampu menemukan dan mengambil informasi eksplisit yang ada dalam ataupun membuat interpretasi sederhana.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi di atas kompetensi minimum",
+          "skor_2025": 3.33,
+          "definisi_capaian": "Peserta didik mampu bernalar untuk menyelesaikan masalah kompleks serta non-rutin berdasarkan konsep matematika yang dimilikinya.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi mencapai kompetensi minimum",
+          "skor_2025": 53.33,
+          "definisi_capaian": "Peserta didik mampu mengaplikasikan konsep matematik yang dimiliki dalam konteks yang lebih beragam.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi di bawah kompetensi minimum",
+          "skor_2025": 36.67,
+          "definisi_capaian": "Peserta didik memiliki kemampuan dasar matematika: komputasi dasar dalam bentuk persamaan langsung, konsep dasar terkait geometri dan statistika, serta menyelesaikan masalah matematika sederhana yang rutin.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi jauh di bawah kompetensi minimum",
+          "skor_2025": 6.67,
+          "definisi_capaian": "Peserta didik hanya memiliki kemampuan dasar matematika yang terbatas: penguasaan konsep yang parsial dan keterampilan komputasi yang terbatas.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "E.6",
+          "capaian": "Ketersediaan Buku Pendidikan",
+          "skor_2025": null,
+          "definisi_capaian": "Satdik Anda tidak menjawab pertanyaan untuk indikator ini",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.6.1",
+              "capaian": "Ketersediaan Buku Teks Utama",
+              "skor_2025": null,
+              "definisi_capaian": "Satdik Anda tidak menjawab pertanyaan untuk indikator ini",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.6.2",
+              "capaian": "Ketersediaan Buku Non Teks",
+              "skor_2025": null,
+              "definisi_capaian": "Satdik Anda tidak menjawab pertanyaan untuk indikator ini",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "baik": [
+        {
+          "no": "A.1",
+          "capaian": "Kemampuan literasi",
+          "skor_2025": 83.33,
+          "definisi_capaian": "Sebagian besar peserta didik telah mencapai batas kompetensi minimum untuk literasi membaca.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "A.3",
+          "capaian": "Karakter",
+          "skor_2025": 56.9,
+          "definisi_capaian": "Peserta didik terbiasa menerapkan nilai-nilai karakter pelajar pancasila yang berakhlak mulia, bergotong royong, mandiri, kreatif dan bernalar kritis serta berkebinekaan global dalam kehidupan sehari hari.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "A.3.1",
+              "capaian": "Beriman, Bertakwa kepada Tuhan yang Maha Esa, dan Berakhlak Mulia",
+              "skor_2025": 61.49,
+              "definisi_capaian": "Peserta didik secara proaktif dan konsisten telah menerapkan perilaku yang menunjukkan berakhlak baik pada sesama manusia, alam, dan negara.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.2",
+              "capaian": "Gotong Royong",
+              "skor_2025": 61.12,
+              "definisi_capaian": "Peserta didik telah mengimplementasikan dan menggerakkan aktivitas terkait kegiatan yang bertujuan memperbaiki kondisi lingkungan fisik dan lingkungan sosial secara proaktif serta konsisten.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.3",
+              "capaian": "Kreativitas",
+              "skor_2025": 47.21,
+              "definisi_capaian": "Peserta didik memiliki kesenangan dan pengalaman untuk menghasilkan pemikiran, gagasan, serta karya yang baru dan berbeda, serta sudah diimplementasikan secara optimal.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.4",
+              "capaian": "Nalar Kritis",
+              "skor_2025": 46.97,
+              "definisi_capaian": "Peserta didik secara rutin dan konsisten telah menelusuri, menganalisis, dan mengevaluasi informasi, serta bertanggung jawab terhadap keputusan yang dibuat.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.5",
+              "capaian": "Kebinekaan global",
+              "skor_2025": 59.44,
+              "definisi_capaian": "Peserta didik secara rutin dan konsisten menunjukkan ketertarikan terhadap keragaman di berbagai negara serta peduli terhadap isu-isu global.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.6",
+              "capaian": "Kemandirian",
+              "skor_2025": 55.99,
+              "definisi_capaian": "Peserta didik terbiasa mengelola pikiran, perasaan, dan tindakan untuk mencapai tujuan belajar dalam kehidupan sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.1",
+          "capaian": "Kualitas pembelajaran",
+          "skor_2025": 62.77,
+          "definisi_capaian": "Pembelajaran menunjukkan kualitas yang optimal ditunjukkan dengan suasana kelas yang kondusif, dukungan afektif dan aktivasi kognitif dari guru yang konstruktif.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.1.1",
+              "capaian": "Manajemen kelas",
+              "skor_2025": 60.91,
+              "definisi_capaian": "Sebagian kelas suasananya kondusif untuk melangsungkan pembelajaran dan sejumlah guru berupaya aktif untuk melibatkan peserta didik dalam pengelolaan kelas.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.1.2",
+              "capaian": "Dukungan psikologis",
+              "skor_2025": 67.64,
+              "definisi_capaian": "Dukungan afektif berupa perhatian, kepedulian dan umpan balik untuk meningkatkan ekspektasi akademik secara konstruktif telah diberikan oleh guru.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.1.3",
+              "capaian": "Metode pembelajaran",
+              "skor_2025": 59.77,
+              "definisi_capaian": "Aktivasi kognitif dalam proses pembelajaran berupa menciptakan iklim pembelajaran terbuka dengan memberikan instruksi, panduan dan aktivitas yang interaktif pada pembelajaran literasi dan numerasi yang dipraktekkan oleh guru bersifat terbatas",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.2",
+          "capaian": "Refleksi dan perbaikan pembelajaran oleh guru",
+          "skor_2025": 70.61,
+          "definisi_capaian": "Guru aktif meningkatkan kualitas pembelajaran setelah melakukan refleksi pembelajaran yang telah lewat, mengeksplorasi referensi pengajaran baru, dan berinovasi menghadirkan pembelajaran yang memantik keterlibatan peserta didik.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.2.1",
+              "capaian": "Belajar tentang pembelajaran",
+              "skor_2025": 68.72,
+              "definisi_capaian": "Guru sudah aktif mencari referensi pengajaran melalui buku, seminar, diskusi, praktik baik guru lain, dll untuk meningkatkan kualitas pengajaran.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.2.2",
+              "capaian": "Refleksi atas praktik mengajar",
+              "skor_2025": 76.36,
+              "definisi_capaian": "Proses refleksi telah secara rutin dan konsisten, ditindaklanjuti dengan pencarian sumber belajar baik dari buku, diskusi, praktek baik orang lain, maupun berbagai sumber belajar lainnya untuk peningkatan kualitas dan pengembangan inovasi.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.2.3",
+              "capaian": "Penerapan praktik inovatif",
+              "skor_2025": 65.17,
+              "definisi_capaian": "Guru terbiasa mencari cara, sumber, dan strategi pengajaran baru dalam rangka melakukan inovasi pembelajaran untuk meningkatkan ketertarikan, keterlibatan, dan pemahaman peserta didik terhadap materi pembelajaran.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.3",
+          "capaian": "Kepemimpinan instruksional",
+          "skor_2025": 70.8,
+          "definisi_capaian": "Kepemimpinan instruksional yang visioner dengan mengacu pada visi-misi satuan pendidikan secara konsisten termasuk mengkomunikasikan visi-misi kepada warga satuan pendidikan sehingga perencanaan, praktik dan asesmen pembelajaran berorientasi peningkatan hasil belajar peserta didik melalui dukungan program, sistem insentif atau sumber daya yang memadai yang berdampak pada membudayanya guru melakukan refleksi dan perbaikan pembelajaran.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.3.1",
+              "capaian": "Visi-misi satuan pendidikan",
+              "skor_2025": 66.58,
+              "definisi_capaian": "Visi-misi satuan pendidikan menjadi acuan dalam perencanaan dan pelaksanaan program kerja satuan pendidikan serta dikomunikasikan kepada warga satuan pendidikan yang dipantau kemajuan realisasi mewujudkan visi-misi satuan pendidikan menggunakan data.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.3.2",
+              "capaian": "Pengelolaan kurikulum satuan pendidikan",
+              "skor_2025": 79.66,
+              "definisi_capaian": "Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di satuan pendidikan sudah berorientasi pada peningkatan hasil belajar peserta didik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.3.3",
+              "capaian": "Dukungan untuk refleksi guru",
+              "skor_2025": 66.16,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program, sistem insentif, dan sumber daya yang telah mendukung guru untuk melakukan refleksi dan perbaikan pembelajaran.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.4",
+          "capaian": "Iklim keamanan satuan pendidikan",
+          "skor_2025": 76.07,
+          "definisi_capaian": "Satuan pendidikan memiliki lingkungan satuan pendidikan yang aman, terlihat dari kesejahteraan psikologis yang baik dan rendahnya kasus perundungan, hukuman fisik, kekerasan seksual, dan penyalahgunaan narkoba. Satuan pendidikan dapat mempertahankan kualitas warga satuan pendidikan dalam mencegah dan menangani kasus untuk menciptakan iklim keamanan di lingkungan satuan pendidikan.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.4.1",
+              "capaian": "Kesejahteraan psikologis (wellbeing) peserta didik",
+              "skor_2025": 69.26,
+              "definisi_capaian": "Peserta didik merasa aman, nyaman, dan sejahtera ketika berada di lingkungan satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.2",
+              "capaian": "Kesejahteraan psikologis (wellbeing) guru",
+              "skor_2025": 81.5,
+              "definisi_capaian": "Guru merasa menjadi bagian tak terpisahkan dari satuan pendidikan sehingga mereka sudah sepenuhnya antusias dalam menjalani peran sebagai seorang pendidik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.3",
+              "capaian": "Pemahaman dan sikap terhadap perundungan",
+              "skor_2025": 71.24,
+              "definisi_capaian": "Kepala satuan pendidikan dan guru sudah yakin dengan pengetahuan dan pemahaman tentang penanganan perundungan, serta mungkin masih memerlukan dukungan untuk meningkatkan pengetahuan dan pemahaman.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.4",
+              "capaian": "Pengalaman perundungan peserta didik",
+              "skor_2025": 83.33,
+              "definisi_capaian": "Tidak terjadi perundungan di satuan pendidikan. Meskipun tetap perlu ada pencegahan perundungan di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.5",
+              "capaian": "Pemahaman dan sikap terhadap hukuman fisik",
+              "skor_2025": 61.24,
+              "definisi_capaian": "Satuan pendidikan aman dari kasus hukuman fisik. Kepala satuan pendidikan dan guru telah memiliki konsepsi yang tepat dan yakin dengan pengetahuan dan kemampuannya terkait hukuman fisik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.6",
+              "capaian": "Pengalaman hukuman fisik peserta didik",
+              "skor_2025": 90,
+              "definisi_capaian": "Peserta didik tidak pernah melihat/mengetahui kekerasan fisik yang terjadi di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.7",
+              "capaian": "Pemahaman dan sikap guru tentang kekerasan seksual",
+              "skor_2025": 45.5,
+              "definisi_capaian": "Di satuan pendidikan jarang terjadi kasus pelecehan seksual. Kepala satuan pendidikan dan guru sudah memahami konsep, definisi dan bentuk-bentuk pelecehan seksual, namun belum cukup yakin dengan kemampuannya dalam mencegah dan menangani kasus pelecehan seksual.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.8",
+              "capaian": "Pengalaman kekerasan seksual peserta didik",
+              "skor_2025": 70,
+              "definisi_capaian": "Jarang terjadinyapelecehan seksual di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.9",
+              "capaian": "Pemahaman dan sikap guru tentang rokok, minuman keras, dan narkoba",
+              "skor_2025": 81.6,
+              "definisi_capaian": "Satuan pendidikan aman dari kasus penyalahgunaan rokok, minuman keras, dan narkoba. Kepala satuan pendidikan dan guru memahami pengertian dan contoh penyalahgunaan rokok, minuman keras, dan narkoba.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.10",
+              "capaian": "Pengalaman peserta didik terkait rokok, minuman keras, dan narkoba",
+              "skor_2025": 86.67,
+              "definisi_capaian": "Tidak ditemukan aktivitas yang berkaitan dengan rokok, minuman keras, dan narkoba di satuan pendidikan. Meskipun tetap perlu ada pencegahan dan penanganan aktivitas yang berkaitan rokok, minuman keras, dan narkoba di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.6",
+          "capaian": "Iklim Kesetaraan Gender",
+          "skor_2025": 69.01,
+          "definisi_capaian": "Satuan pendidikan secara aktif mensosialisasikan dan menyuarakan dukungan akan pentingnya mewujudkan kesetaraan hak-hak sipil antar kelompok gender dengan dasar prinsip keadilan.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.6.1",
+              "capaian": "Pemahaman dan sikap warga satuan pendidikan terhadap kesetaraan gender",
+              "skor_2025": 67.89,
+              "definisi_capaian": "Satuan pendidikan secara aktif dan konsisten mewujudkan pemahaman dan dukungan terhadap kesetaraan gender.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.6.2",
+              "capaian": "Perilaku warga satuan pendidikan terhadap kesetaraan gender",
+              "skor_2025": 69.62,
+              "definisi_capaian": "Satuan pendidikan belum konsisten menunjukkan perilaku yang mendukung kesetaraan gender.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.8",
+          "capaian": "Iklim Kebinekaan",
+          "skor_2025": 70.6,
+          "definisi_capaian": "Satuan pendidikan sudah mampu menghadirkan suasana proses pembelajaran yang menjunjung tinggi toleransi agama/kepercayaan dan budaya; mendapatkan pengalaman belajar yang berkualitas; mendukung kesetaraan agama/kepercayaan, dan budaya; serta memperkuat nasionalisme.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.8.1",
+              "capaian": "Toleransi agama dan budaya",
+              "skor_2025": 74.21,
+              "definisi_capaian": "Satuan pendidikan mengakui, menghargai, menerima, mendukung dan merawat keragaman agama/kepercayaan dan budaya.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.8.2",
+              "capaian": "Komitmen kebangsaan",
+              "skor_2025": 80.74,
+              "definisi_capaian": "Satuan pendidikan mendukung dan mengakomodir semua peserta didik untuk mendapatkan pengalaman belajar yang berkualitas.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.8.3",
+              "capaian": "Toleransi dan kesetaraan peserta didik",
+              "skor_2025": 56.86,
+              "definisi_capaian": "Peserta didik secara konsisten menunjukkan perilaku penghargaan atas keragaman agama.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.10",
+          "capaian": "Iklim Inklusivitas",
+          "skor_2025": 59.21,
+          "definisi_capaian": "Satuan pendidikan sudah mampu menghadirkan suasana proses pembelajaran yang menyediakan layanan yang ramah bagi peserta didik dengan disabilitas dan cerdas berbakat istimewa.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.10.1",
+              "capaian": "Layanan disabilitas",
+              "skor_2025": 75.1,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki pengetahuan, sikap yang tepat, dan kemampuan untuk melaksanakan praktik pembelajaran khusus bagi peserta didik dengan disabilitas.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.10.2",
+              "capaian": "Layanan satuan pendidikan untuk peserta didik cerdas dan bakat istimewa",
+              "skor_2025": 65.15,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki pengetahuan, sikap yang tepat, dan kemampuan untuk melaksanakan praktik pembelajaran khusus bagi peserta didik dengan kecerdasan dan bakat istimewa.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.10.3",
+              "capaian": "Sikap terhadap disabilitas",
+              "skor_2025": 58,
+              "definisi_capaian": "Peserta didik sudah menerima keberadaan Peserta didik disabilitas, sehingga merasa nyaman dan bisa berteman akrab.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.18",
+          "capaian": "Kesiapsiagaan Bencana dan Perubahan Iklim",
+          "skor_2025": 67.72,
+          "definisi_capaian": "Satuan pendidikan memiliki kebijakan dan program terintegrasi dengan dukungan sarana prasarana memadai, serta pemahaman dan sikap warga sekolah yang baik sehingga kesiapsiagaan bencana, mitigasi bencana, serta adaptasi dan mitigasi perubahan iklim di satuan pendidikan berjalan optimal",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.18.1",
+              "capaian": "Pemahaman dan Sikap terhadap Risiko Bencana",
+              "skor_2025": 56.05,
+              "definisi_capaian": "Komunitas satuan pendidikan memiliki pengetahuan yang terbatas tentang ancaman bencana, kesadaran terhadap kerentanan rendah, belum memiliki perencanaan yang baik untuk mitigasi dan kesiapsiagaan bencana, serta menunjukkan perilaku yang abai dan berpotensi meningkatkan risiko.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.2",
+              "capaian": "Manajemen Penanggulangan Bencana di Satuan Pendidikan dan Kesinambungan Pendidikan",
+              "skor_2025": 71.28,
+              "definisi_capaian": "Satuan pendidikan memiliki kebijakan yang terintegrasi, mekanisme koordinasi yang terencana dengan baik, dan sumber daya memadai untuk mengelola risiko bencana yang berkelanjutan sehingga layanan pendidikan tetap aman sebelum, saat, dan sesudah bencana.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.3",
+              "capaian": "Sarana dan Prasarana Keselamatan Bencana",
+              "skor_2025": 95.47,
+              "definisi_capaian": "Satuan pendidikan memiliki prasarana dan sarana pendukung penyelamatan dan evakuasi yang lengkap, terawat, dan berfungsi optimal sehingga mendukung keamanan dan keselamatan warga satuan pendidikan",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.4",
+              "capaian": "Pemahaman dan Sikap Warga Satuan Pendidikan terhadap Perubahan Iklim",
+              "skor_2025": 62.54,
+              "definisi_capaian": "Warga satuan pendidikan memiliki pemahaman yang komprehensif mengenai fenomena perubahan iklim, mampu menumbuhkan sikap positif secara konsisten dan berkelanjutan",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.5",
+              "capaian": "Kebijakan Perubahan Iklim",
+              "skor_2025": 60.75,
+              "definisi_capaian": "Satuan Pendidikan memiliki kebijakan yang konsisten untuk mendukung kelestarian lingkungan hidup, mitigasi dan adaptasi perubahan iklim",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.6",
+              "capaian": "Pembelajaran Perubahan Iklim",
+              "skor_2025": 77.12,
+              "definisi_capaian": "Satuan Pendidikan secara konsisten melakukan praktik pengajaran terkait pelestarian lingkungan dan perubahan iklim serta aktif membimbing peserta didik membangun pengetahuan dan pemahaman yang  mendalam",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.3",
+          "capaian": "Pemanfaatan TIK untuk pengelolaan anggaran",
+          "skor_2025": 83.27,
+          "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan dana BOS secara daring yang tinggi",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.3.1",
+              "capaian": "Proporsi pembelanjaan dana BOS secara daring",
+              "skor_2025": 66.54,
+              "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan dana BOS secara daring yang tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.3.2",
+              "capaian": "Indeks penggunaan platform SDS sumberdaya sekolah - ketepatan waktu dan kelengkapan pelaporan",
+              "skor_2025": 100,
+              "definisi_capaian": "Jumlah satuan pendidikan yang membuat laporan tepat waktu di platform SDS tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.5",
+          "capaian": "Program dan kebijakan satuan pendidikan",
+          "skor_2025": 76.57,
+          "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan yang dilaksanakan secara konsisten tentang pencegahan dan penanganan perundungan; hukuman fisik; kekerasan seksual; penyalahgunaan rokok, minuman keras, dan narkoba; kesetaraan gender; dan intoleransi.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.5.1",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang perundungan",
+              "skor_2025": 77.8,
+              "definisi_capaian": "Satuan pendidikan memiliki program dan kebijakan yang dilaksanakan secara konsisten tentang pencegahan dan penanganan perundungan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.2",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang hukuman fisik",
+              "skor_2025": 79.22,
+              "definisi_capaian": "Satuan pendidikan sudah cukup memiliki program dan kebijakan yang dilaksanakan secara konsisten untuk mencegah dan menangani hukuman fisik di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.3",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang kekerasan seksual",
+              "skor_2025": 69.66,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan yang dilaksanakan secara konsisten untuk mencegah dan menangani terjadinya pelecehan seksual di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.4",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang rokok, minuman keras, dan narkoba",
+              "skor_2025": 77.82,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan yang dilaksanakan secara konsisten untuk mencegah dan menangani aktivitas atau kasus penyalahgunaan rokok, minuman keras, dan narkoba di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.5",
+              "capaian": "Program dan Kebijakan mengenai kesetaraan gender",
+              "skor_2025": 75.83,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan satuan pendidikan yang mendukung kesetaraan antara laki-laki dan perempuan di satuan pendidikan, namun belum dilaksanakan secara konsisten.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.6",
+              "capaian": "Program dan kebijakan mengenai penanggulangan dan pencegahan intoleransi di satuan pendidikan",
+              "skor_2025": 79.12,
+              "definisi_capaian": "Satuan pendidikan telah memiliki dan menjalankan program dan kebijakan tentang pencegahan dan penanganan kasus intoleransi di satuan pendidikan secara konsisten.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "sedang": [
+        {
+          "no": "A.2",
+          "capaian": "Kemampuan numerasi",
+          "skor_2025": 56.67,
+          "definisi_capaian": "40% - 75% peserta didik telah mencapai kompetensi minimum untuk numerasi namun perlu upaya mendorong lebih banyak peserta didik dalam mencapai kompetensi minimum.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "D.19",
+          "capaian": "Tujuh Kebiasaan Anak Indonesia Hebat",
+          "skor_2025": 6.74,
+          "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya kebiasaaan bangun pagi, beribadah, berolahraga, makan sehat bergizi, gemar belajar, bermasyarakat, dan tidur cepat, tetapi masih perlu dukungan untuk menerapkannya dalam kehidupan sehari-hari.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.19.1",
+              "capaian": "Bangun Pagi",
+              "skor_2025": 7.02,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya disiplin mengelola waktu dan mandiri mempersiapkan diri yang berkontribusi positif pada kemampuan mengatur ritme harian dan memulai aktivitas secara tertib.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.2",
+              "capaian": "Beribadah",
+              "skor_2025": 6.83,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya menjadi religius dan bermoral melalui nilai spiritual yang kuat dan penghayatan ajaran agama/kepercayaan yang berkontribusi positif pada konsistensi berdoa/beribadah di rumah dan di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.3",
+              "capaian": "Berolahraga",
+              "skor_2025": 5.87,
+              "definisi_capaian": "Peserta didik belum memiliki kesadaran akan pentingnya kerja keras dan disiplin dalam menjaga kebugaran dan kesehatan baik fisik dan mental yang berpengaruh pada rendahnya kemauan dan kebiasaan melakukan aktivitas fisik secara teratur.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.4",
+              "capaian": "Makan Sehat dan Bergizi",
+              "skor_2025": 6.87,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya tanggung jawab terhadap kesehatan diri melalui pemenuhan gizi seimbang sebagai penunjang pertumbuhan dan kecerdasan yang berkontribusi positif pada konsumsi harian yang sehat dan bergizi.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.5",
+              "capaian": "Gemar Belajar",
+              "skor_2025": 6.54,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya rasa ingin tahu dan ketekunan dalam mengembangkan potensi diri yang berkontribusi positif pada kebiasaan menyediakan waktu belajar secara mandiri.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.6",
+              "capaian": "Bermasyarakat",
+              "skor_2025": 7.18,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya kepedulian sosial dan bermanfaat bagi masyarakat yang berkontribusi positif pada kebiasaan berinteraksi sehat dan berkontribusi dalam kegiatan sosial di sekitarnya.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.7",
+              "capaian": "Tidur Cepat",
+              "skor_2025": 6.87,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya disiplin dan tertib dalam pengelolaan diri untuk memastikan kualitas istirahat yang berkontribusi positif pada kebiasaan tidur yang cukup dan teratur sesuai kebutuhan perkembangan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.1",
+          "capaian": "Partisipasi warga satuan pendidikan",
+          "skor_2025": 69.8,
+          "definisi_capaian": "Satuan pendidikan melibatkan orang tua dan peserta didik dalam beberapa kegiatan di satuan pendidikan khususnya berupa kegiatan akademik dan atau non-akademik.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.1.1",
+              "capaian": "Partisipasi orang tua",
+              "skor_2025": 67.39,
+              "definisi_capaian": "Satuan pendidikan melibatkan orang tua dalam beberapa kegiatan di satuan pendidikan khususnya berupa kegiatan akademik dan atau non-akademik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.1.2",
+              "capaian": "Partisipasi peserta didik",
+              "skor_2025": 72.21,
+              "definisi_capaian": "Satuan pendidikan melibatkan peserta didik dalam beberapa kegiatan di satuan pendidikan khususnya berupa kegiatan akademik dan atau non-akademik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.7",
+          "capaian": "Indeks Fasilitas Satuan Pendidikan",
+          "skor_2025": 58.5,
+          "definisi_capaian": "Satuan Pendidikan memiliki ketersediaan fasilitas sekolah yang sedang",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.7.1",
+              "capaian": "Indeks Fasilitas Ruang Satuan Pendidikan",
+              "skor_2025": 50,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan ruang kelas, perpustakaan, dan laboratorium yang sedang",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.2",
+              "capaian": "Indeks Sanitasi Satuan Pendidikan",
+              "skor_2025": 70,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan air kayak, tempat cuci tangan dengan sabun, dan toilet yang tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.4",
+              "capaian": "Indeks Fasilitas TIK",
+              "skor_2025": 100,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan fasilitas TIK yang tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.5",
+              "capaian": "Indeks Kelengkapan Ruang Satuan Pendidikan",
+              "skor_2025": 60,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan fasilitas ruang satuan pendidikan yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.6",
+              "capaian": "Indeks Kelayakan Ruang Satuan Pendidikan",
+              "skor_2025": 12.5,
+              "definisi_capaian": "Satuan pendidikan memiliki kelayakan fasilitas ruang satuan pendidikan yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "kurang": [
+        {
+          "no": "A.1.skor",
+          "capaian": "Kemampuan literasi",
+          "skor_2025": 58.95,
+          "definisi_capaian": "Nilai rerata peserta didik berdasarkan kemampuan dalam memahami, menggunakan, merefleksi, dan mengevaluasi beragam jenis teks (teks informasional dan teks fiksi).",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "A.1.1",
+              "capaian": "Kompetensi membaca teks informasi",
+              "skor_2025": 60.02,
+              "definisi_capaian": "Nilai rerata peserta didik dalam memahami, menggunakan, merefleksi, dan mengevaluasi teks informasional (non-fiksi).",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.2",
+              "capaian": "Kompetensi membaca teks sastra",
+              "skor_2025": 58.17,
+              "definisi_capaian": "Nilai rerata peserta didik dalam memahami, menggunakan, merefleksi, dan mengevaluasi teks fiksi.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.3",
+              "capaian": "Kompetensi mengakses dan menemukan isi teks (L1)",
+              "skor_2025": 58.26,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menemukan, mengidentifikasi, dan mendeskripsikan suatu ide atau informasi eksplisit dalam teks informasional (non-fiksi) dan sastra.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.4",
+              "capaian": "Kompetensi menginterpretasi dan memahami isi teks (L2)",
+              "skor_2025": 59.19,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan membandingkan dan mengontraskan ide atau informasi dalam atau antarteks, membuat kesimpulan, mengelompokkan, serta mengombinasikan ide dan informasi dalam teks atau antarteks informasional (non-fiksi) dan sastra.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.5",
+              "capaian": "Kompetensi mengevaluasi dan merefleksikan isi teks (L3)",
+              "skor_2025": 51.87,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menganalisis, memprediksi, dan menilai konten, bahasa, dan unsur-unsur dalam teks informasional (non-fiksi) dan sastra.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "A.2.skor",
+          "capaian": "Kemampuan numerasi",
+          "skor_2025": 46.81,
+          "definisi_capaian": "Nilai rerata peserta didik berdasarkan kemampuan dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika untuk menyelesaikan masalah sehari-hari pada berbagai jenis konteks yang relevan.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "A.2.1",
+              "capaian": "Kompetensi pada domain Bilangan",
+              "skor_2025": 47.96,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten bilangan untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.2",
+              "capaian": "Kompetensi pada domain Aljabar",
+              "skor_2025": 47.27,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten aljabar untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.3",
+              "capaian": "Kompetensi pada domain Geometri",
+              "skor_2025": 41.47,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten geometri untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.4",
+              "capaian": "Kompetensi pada domain Data dan Ketidakpastian",
+              "skor_2025": 43.36,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten data dan ketidakpastian untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.5",
+              "capaian": "Kompetensi mengetahui (L1)",
+              "skor_2025": 46.88,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan memahami fakta, proses, konsep, dan prosedur.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.6",
+              "capaian": "Kompetensi menerapkan (L2)",
+              "skor_2025": 43.99,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menerapkan pengetahuan dan pemahaman tentang fakta-fakta, relasi, proses, konsep, prosedur, dan metode pada konten bilangan dengan konteks situasi nyata untuk menyelesaikan masalah atau menjawab pertanyaan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.7",
+              "capaian": "Kompetensi menalar (L3)",
+              "skor_2025": 52.92,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menganalisis data dan informasi, membuat kesimpulan, dan memperluas pemahaman dalam situasi baru, meliputi situasi yang tidak diketahui sebelumnya atau konteks yang lebih kompleks.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "C.3",
+          "capaian": "Pengalaman Pelatihan PTK",
+          "skor_2025": 0,
+          "definisi_capaian": "Propinsi/Kabupaten/Kota/Satuan Pendidikan sedang merintis dalam keikutsertaan guru dalam pelatihan",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "E.2",
+          "capaian": "Proporsi pemanfaatan sumber daya sekolah untuk peningkatan mutu",
+          "skor_2025": 16.05,
+          "definisi_capaian": "Satuan pendidikan memiliki proporsi pemanfaatan sumber daya sekolah untuk peningkatan mutu yang rendah",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.2.1",
+              "capaian": "Proporsi pembelanjaan peningkatan mutu guru dan tenaga kependidikan",
+              "skor_2025": 2.38,
+              "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan peningkatan mutu guru dan tenaga kependidikan yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.2.2",
+              "capaian": "Proporsi pembelanjaan non personil mutu pembelajaran",
+              "skor_2025": 13.67,
+              "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan non-personil mutu pembelajaran yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "ringkasan": {
+        "total_indikator": 29,
+        "jumlah_per_kategori": {
+          "Capaian": 9,
+          "Baik": 12,
+          "Sedang": 4,
+          "Kurang": 4
+        },
+        "rata_rata_skor_2025": 48.58,
+        "indikator_naik": 0,
+        "indikator_turun": 0
+      },
+      "kesimpulan": "Berdasarkan hasil analisis Rapor Pendidikan, dari 29 indikator utama yang dianalisis, sebanyak 12 indikator berada pada predikat Baik, 4 indikator pada predikat Sedang, 4 indikator pada predikat Kurang, dan 9 indikator pada predikat Capaian. Rata-rata skor capaian tahun 2025 adalah 48.58, dengan 0 indikator mengalami peningkatan skor dan 0 indikator mengalami penurunan dibandingkan tahun 2024. Capaian tertinggi terdapat pada indikator Kemampuan literasi dengan skor 83.33, sedangkan capaian terendah pada indikator Proporsi peserta didik dengan kemampuan literasi jauh di bawah kompetensi minimum dengan skor 0. Terdapat 4 indikator yang masih berpredikat <span class=\"hl-kurang\">Kurang</span> sehingga menjadi fokus utama intervensi sekolah, yaitu: <span class=\"hl-kurang\">1) Kemampuan literasi</span> (skor 58.95); <span class=\"hl-kurang\">2) Kemampuan numerasi</span> (skor 46.81); <span class=\"hl-kurang\">3) Pengalaman Pelatihan PTK</span> (skor 0); <span class=\"hl-kurang\">4) Proporsi pemanfaatan sumber daya sekolah untuk peningkatan mutu</span> (skor 16.05)."
+    },
+    "created_at": "2026-09-14T17:00:23.939Z"
+  },
+  {
+    "id": 7,
+    "nama_sekolah": "UPT SD NEGERI 003 LUBUK SAKAT",
+    "tahun": "2025",
+    "filename": "RAPOR-PBD-UPT-SD-NEGERI-003-LUBUK SAKAT.xlsx",
+    "total_indikator": 29,
+    "rata_rata_skor": 48.58,
+    "indikator_naik": 0,
+    "indikator_turun": 0,
+    "jumlah_baik": 12,
+    "jumlah_sedang": 4,
+    "jumlah_kurang": 4,
+    "data": {
+      "judul": "Analisis Rapor Pendidikan UPT SD NEGERI 003 LUBUK SAKAT Tahun 2025",
+      "capaian": [
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi di atas kompetensi minimum",
+          "skor_2025": 3.33,
+          "definisi_capaian": "Peserta didik mampu mengintegrasikan beberapa informasi lintas teks, mengevaluasi isi, kualitas, cara penulisan suatu teks, dan bersikap reflektif terhadap isi teks.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi mencapai kompetensi minimum",
+          "skor_2025": 80,
+          "definisi_capaian": "Peserta didik mampu membuat interpretasi dari informasi implisit yang ada dalam teks, mampu membuat simpulan dari hasil integrasi beberapa informasi dalam suatu teks.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi di bawah kompetensi minimum",
+          "skor_2025": 16.67,
+          "definisi_capaian": "Peserta didik mampu menemukan dan mengambil informasi eksplisit yang ada dalam teks serta membuat interpretasi sederhana.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan literasi jauh di bawah kompetensi minimum",
+          "skor_2025": 0,
+          "definisi_capaian": "Peserta didik belum mampu menemukan dan mengambil informasi eksplisit yang ada dalam ataupun membuat interpretasi sederhana.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi di atas kompetensi minimum",
+          "skor_2025": 3.33,
+          "definisi_capaian": "Peserta didik mampu bernalar untuk menyelesaikan masalah kompleks serta non-rutin berdasarkan konsep matematika yang dimilikinya.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi mencapai kompetensi minimum",
+          "skor_2025": 53.33,
+          "definisi_capaian": "Peserta didik mampu mengaplikasikan konsep matematik yang dimiliki dalam konteks yang lebih beragam.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi di bawah kompetensi minimum",
+          "skor_2025": 36.67,
+          "definisi_capaian": "Peserta didik memiliki kemampuan dasar matematika: komputasi dasar dalam bentuk persamaan langsung, konsep dasar terkait geometri dan statistika, serta menyelesaikan masalah matematika sederhana yang rutin.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "-",
+          "capaian": "Proporsi peserta didik dengan kemampuan numerasi jauh di bawah kompetensi minimum",
+          "skor_2025": 6.67,
+          "definisi_capaian": "Peserta didik hanya memiliki kemampuan dasar matematika yang terbatas: penguasaan konsep yang parsial dan keterampilan komputasi yang terbatas.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "E.6",
+          "capaian": "Ketersediaan Buku Pendidikan",
+          "skor_2025": null,
+          "definisi_capaian": "Satdik Anda tidak menjawab pertanyaan untuk indikator ini",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.6.1",
+              "capaian": "Ketersediaan Buku Teks Utama",
+              "skor_2025": null,
+              "definisi_capaian": "Satdik Anda tidak menjawab pertanyaan untuk indikator ini",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.6.2",
+              "capaian": "Ketersediaan Buku Non Teks",
+              "skor_2025": null,
+              "definisi_capaian": "Satdik Anda tidak menjawab pertanyaan untuk indikator ini",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "baik": [
+        {
+          "no": "A.1",
+          "capaian": "Kemampuan literasi",
+          "skor_2025": 83.33,
+          "definisi_capaian": "Sebagian besar peserta didik telah mencapai batas kompetensi minimum untuk literasi membaca.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "A.3",
+          "capaian": "Karakter",
+          "skor_2025": 56.9,
+          "definisi_capaian": "Peserta didik terbiasa menerapkan nilai-nilai karakter pelajar pancasila yang berakhlak mulia, bergotong royong, mandiri, kreatif dan bernalar kritis serta berkebinekaan global dalam kehidupan sehari hari.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "A.3.1",
+              "capaian": "Beriman, Bertakwa kepada Tuhan yang Maha Esa, dan Berakhlak Mulia",
+              "skor_2025": 61.49,
+              "definisi_capaian": "Peserta didik secara proaktif dan konsisten telah menerapkan perilaku yang menunjukkan berakhlak baik pada sesama manusia, alam, dan negara.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.2",
+              "capaian": "Gotong Royong",
+              "skor_2025": 61.12,
+              "definisi_capaian": "Peserta didik telah mengimplementasikan dan menggerakkan aktivitas terkait kegiatan yang bertujuan memperbaiki kondisi lingkungan fisik dan lingkungan sosial secara proaktif serta konsisten.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.3",
+              "capaian": "Kreativitas",
+              "skor_2025": 47.21,
+              "definisi_capaian": "Peserta didik memiliki kesenangan dan pengalaman untuk menghasilkan pemikiran, gagasan, serta karya yang baru dan berbeda, serta sudah diimplementasikan secara optimal.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.4",
+              "capaian": "Nalar Kritis",
+              "skor_2025": 46.97,
+              "definisi_capaian": "Peserta didik secara rutin dan konsisten telah menelusuri, menganalisis, dan mengevaluasi informasi, serta bertanggung jawab terhadap keputusan yang dibuat.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.5",
+              "capaian": "Kebinekaan global",
+              "skor_2025": 59.44,
+              "definisi_capaian": "Peserta didik secara rutin dan konsisten menunjukkan ketertarikan terhadap keragaman di berbagai negara serta peduli terhadap isu-isu global.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.3.6",
+              "capaian": "Kemandirian",
+              "skor_2025": 55.99,
+              "definisi_capaian": "Peserta didik terbiasa mengelola pikiran, perasaan, dan tindakan untuk mencapai tujuan belajar dalam kehidupan sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.1",
+          "capaian": "Kualitas pembelajaran",
+          "skor_2025": 62.77,
+          "definisi_capaian": "Pembelajaran menunjukkan kualitas yang optimal ditunjukkan dengan suasana kelas yang kondusif, dukungan afektif dan aktivasi kognitif dari guru yang konstruktif.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.1.1",
+              "capaian": "Manajemen kelas",
+              "skor_2025": 60.91,
+              "definisi_capaian": "Sebagian kelas suasananya kondusif untuk melangsungkan pembelajaran dan sejumlah guru berupaya aktif untuk melibatkan peserta didik dalam pengelolaan kelas.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.1.2",
+              "capaian": "Dukungan psikologis",
+              "skor_2025": 67.64,
+              "definisi_capaian": "Dukungan afektif berupa perhatian, kepedulian dan umpan balik untuk meningkatkan ekspektasi akademik secara konstruktif telah diberikan oleh guru.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.1.3",
+              "capaian": "Metode pembelajaran",
+              "skor_2025": 59.77,
+              "definisi_capaian": "Aktivasi kognitif dalam proses pembelajaran berupa menciptakan iklim pembelajaran terbuka dengan memberikan instruksi, panduan dan aktivitas yang interaktif pada pembelajaran literasi dan numerasi yang dipraktekkan oleh guru bersifat terbatas",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.2",
+          "capaian": "Refleksi dan perbaikan pembelajaran oleh guru",
+          "skor_2025": 70.61,
+          "definisi_capaian": "Guru aktif meningkatkan kualitas pembelajaran setelah melakukan refleksi pembelajaran yang telah lewat, mengeksplorasi referensi pengajaran baru, dan berinovasi menghadirkan pembelajaran yang memantik keterlibatan peserta didik.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.2.1",
+              "capaian": "Belajar tentang pembelajaran",
+              "skor_2025": 68.72,
+              "definisi_capaian": "Guru sudah aktif mencari referensi pengajaran melalui buku, seminar, diskusi, praktik baik guru lain, dll untuk meningkatkan kualitas pengajaran.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.2.2",
+              "capaian": "Refleksi atas praktik mengajar",
+              "skor_2025": 76.36,
+              "definisi_capaian": "Proses refleksi telah secara rutin dan konsisten, ditindaklanjuti dengan pencarian sumber belajar baik dari buku, diskusi, praktek baik orang lain, maupun berbagai sumber belajar lainnya untuk peningkatan kualitas dan pengembangan inovasi.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.2.3",
+              "capaian": "Penerapan praktik inovatif",
+              "skor_2025": 65.17,
+              "definisi_capaian": "Guru terbiasa mencari cara, sumber, dan strategi pengajaran baru dalam rangka melakukan inovasi pembelajaran untuk meningkatkan ketertarikan, keterlibatan, dan pemahaman peserta didik terhadap materi pembelajaran.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.3",
+          "capaian": "Kepemimpinan instruksional",
+          "skor_2025": 70.8,
+          "definisi_capaian": "Kepemimpinan instruksional yang visioner dengan mengacu pada visi-misi satuan pendidikan secara konsisten termasuk mengkomunikasikan visi-misi kepada warga satuan pendidikan sehingga perencanaan, praktik dan asesmen pembelajaran berorientasi peningkatan hasil belajar peserta didik melalui dukungan program, sistem insentif atau sumber daya yang memadai yang berdampak pada membudayanya guru melakukan refleksi dan perbaikan pembelajaran.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.3.1",
+              "capaian": "Visi-misi satuan pendidikan",
+              "skor_2025": 66.58,
+              "definisi_capaian": "Visi-misi satuan pendidikan menjadi acuan dalam perencanaan dan pelaksanaan program kerja satuan pendidikan serta dikomunikasikan kepada warga satuan pendidikan yang dipantau kemajuan realisasi mewujudkan visi-misi satuan pendidikan menggunakan data.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.3.2",
+              "capaian": "Pengelolaan kurikulum satuan pendidikan",
+              "skor_2025": 79.66,
+              "definisi_capaian": "Perencanaan pembelajaran, praktik pembelajaran, dan praktik asesmen di satuan pendidikan sudah berorientasi pada peningkatan hasil belajar peserta didik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.3.3",
+              "capaian": "Dukungan untuk refleksi guru",
+              "skor_2025": 66.16,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program, sistem insentif, dan sumber daya yang telah mendukung guru untuk melakukan refleksi dan perbaikan pembelajaran.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.4",
+          "capaian": "Iklim keamanan satuan pendidikan",
+          "skor_2025": 76.07,
+          "definisi_capaian": "Satuan pendidikan memiliki lingkungan satuan pendidikan yang aman, terlihat dari kesejahteraan psikologis yang baik dan rendahnya kasus perundungan, hukuman fisik, kekerasan seksual, dan penyalahgunaan narkoba. Satuan pendidikan dapat mempertahankan kualitas warga satuan pendidikan dalam mencegah dan menangani kasus untuk menciptakan iklim keamanan di lingkungan satuan pendidikan.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.4.1",
+              "capaian": "Kesejahteraan psikologis (wellbeing) peserta didik",
+              "skor_2025": 69.26,
+              "definisi_capaian": "Peserta didik merasa aman, nyaman, dan sejahtera ketika berada di lingkungan satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.2",
+              "capaian": "Kesejahteraan psikologis (wellbeing) guru",
+              "skor_2025": 81.5,
+              "definisi_capaian": "Guru merasa menjadi bagian tak terpisahkan dari satuan pendidikan sehingga mereka sudah sepenuhnya antusias dalam menjalani peran sebagai seorang pendidik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.3",
+              "capaian": "Pemahaman dan sikap terhadap perundungan",
+              "skor_2025": 71.24,
+              "definisi_capaian": "Kepala satuan pendidikan dan guru sudah yakin dengan pengetahuan dan pemahaman tentang penanganan perundungan, serta mungkin masih memerlukan dukungan untuk meningkatkan pengetahuan dan pemahaman.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.4",
+              "capaian": "Pengalaman perundungan peserta didik",
+              "skor_2025": 83.33,
+              "definisi_capaian": "Tidak terjadi perundungan di satuan pendidikan. Meskipun tetap perlu ada pencegahan perundungan di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.5",
+              "capaian": "Pemahaman dan sikap terhadap hukuman fisik",
+              "skor_2025": 61.24,
+              "definisi_capaian": "Satuan pendidikan aman dari kasus hukuman fisik. Kepala satuan pendidikan dan guru telah memiliki konsepsi yang tepat dan yakin dengan pengetahuan dan kemampuannya terkait hukuman fisik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.6",
+              "capaian": "Pengalaman hukuman fisik peserta didik",
+              "skor_2025": 90,
+              "definisi_capaian": "Peserta didik tidak pernah melihat/mengetahui kekerasan fisik yang terjadi di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.7",
+              "capaian": "Pemahaman dan sikap guru tentang kekerasan seksual",
+              "skor_2025": 45.5,
+              "definisi_capaian": "Di satuan pendidikan jarang terjadi kasus pelecehan seksual. Kepala satuan pendidikan dan guru sudah memahami konsep, definisi dan bentuk-bentuk pelecehan seksual, namun belum cukup yakin dengan kemampuannya dalam mencegah dan menangani kasus pelecehan seksual.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.8",
+              "capaian": "Pengalaman kekerasan seksual peserta didik",
+              "skor_2025": 70,
+              "definisi_capaian": "Jarang terjadinyapelecehan seksual di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.9",
+              "capaian": "Pemahaman dan sikap guru tentang rokok, minuman keras, dan narkoba",
+              "skor_2025": 81.6,
+              "definisi_capaian": "Satuan pendidikan aman dari kasus penyalahgunaan rokok, minuman keras, dan narkoba. Kepala satuan pendidikan dan guru memahami pengertian dan contoh penyalahgunaan rokok, minuman keras, dan narkoba.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.4.10",
+              "capaian": "Pengalaman peserta didik terkait rokok, minuman keras, dan narkoba",
+              "skor_2025": 86.67,
+              "definisi_capaian": "Tidak ditemukan aktivitas yang berkaitan dengan rokok, minuman keras, dan narkoba di satuan pendidikan. Meskipun tetap perlu ada pencegahan dan penanganan aktivitas yang berkaitan rokok, minuman keras, dan narkoba di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.6",
+          "capaian": "Iklim Kesetaraan Gender",
+          "skor_2025": 69.01,
+          "definisi_capaian": "Satuan pendidikan secara aktif mensosialisasikan dan menyuarakan dukungan akan pentingnya mewujudkan kesetaraan hak-hak sipil antar kelompok gender dengan dasar prinsip keadilan.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.6.1",
+              "capaian": "Pemahaman dan sikap warga satuan pendidikan terhadap kesetaraan gender",
+              "skor_2025": 67.89,
+              "definisi_capaian": "Satuan pendidikan secara aktif dan konsisten mewujudkan pemahaman dan dukungan terhadap kesetaraan gender.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.6.2",
+              "capaian": "Perilaku warga satuan pendidikan terhadap kesetaraan gender",
+              "skor_2025": 69.62,
+              "definisi_capaian": "Satuan pendidikan belum konsisten menunjukkan perilaku yang mendukung kesetaraan gender.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.8",
+          "capaian": "Iklim Kebinekaan",
+          "skor_2025": 70.6,
+          "definisi_capaian": "Satuan pendidikan sudah mampu menghadirkan suasana proses pembelajaran yang menjunjung tinggi toleransi agama/kepercayaan dan budaya; mendapatkan pengalaman belajar yang berkualitas; mendukung kesetaraan agama/kepercayaan, dan budaya; serta memperkuat nasionalisme.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.8.1",
+              "capaian": "Toleransi agama dan budaya",
+              "skor_2025": 74.21,
+              "definisi_capaian": "Satuan pendidikan mengakui, menghargai, menerima, mendukung dan merawat keragaman agama/kepercayaan dan budaya.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.8.2",
+              "capaian": "Komitmen kebangsaan",
+              "skor_2025": 80.74,
+              "definisi_capaian": "Satuan pendidikan mendukung dan mengakomodir semua peserta didik untuk mendapatkan pengalaman belajar yang berkualitas.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.8.3",
+              "capaian": "Toleransi dan kesetaraan peserta didik",
+              "skor_2025": 56.86,
+              "definisi_capaian": "Peserta didik secara konsisten menunjukkan perilaku penghargaan atas keragaman agama.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.10",
+          "capaian": "Iklim Inklusivitas",
+          "skor_2025": 59.21,
+          "definisi_capaian": "Satuan pendidikan sudah mampu menghadirkan suasana proses pembelajaran yang menyediakan layanan yang ramah bagi peserta didik dengan disabilitas dan cerdas berbakat istimewa.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.10.1",
+              "capaian": "Layanan disabilitas",
+              "skor_2025": 75.1,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki pengetahuan, sikap yang tepat, dan kemampuan untuk melaksanakan praktik pembelajaran khusus bagi peserta didik dengan disabilitas.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.10.2",
+              "capaian": "Layanan satuan pendidikan untuk peserta didik cerdas dan bakat istimewa",
+              "skor_2025": 65.15,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki pengetahuan, sikap yang tepat, dan kemampuan untuk melaksanakan praktik pembelajaran khusus bagi peserta didik dengan kecerdasan dan bakat istimewa.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.10.3",
+              "capaian": "Sikap terhadap disabilitas",
+              "skor_2025": 58,
+              "definisi_capaian": "Peserta didik sudah menerima keberadaan Peserta didik disabilitas, sehingga merasa nyaman dan bisa berteman akrab.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "D.18",
+          "capaian": "Kesiapsiagaan Bencana dan Perubahan Iklim",
+          "skor_2025": 67.72,
+          "definisi_capaian": "Satuan pendidikan memiliki kebijakan dan program terintegrasi dengan dukungan sarana prasarana memadai, serta pemahaman dan sikap warga sekolah yang baik sehingga kesiapsiagaan bencana, mitigasi bencana, serta adaptasi dan mitigasi perubahan iklim di satuan pendidikan berjalan optimal",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.18.1",
+              "capaian": "Pemahaman dan Sikap terhadap Risiko Bencana",
+              "skor_2025": 56.05,
+              "definisi_capaian": "Komunitas satuan pendidikan memiliki pengetahuan yang terbatas tentang ancaman bencana, kesadaran terhadap kerentanan rendah, belum memiliki perencanaan yang baik untuk mitigasi dan kesiapsiagaan bencana, serta menunjukkan perilaku yang abai dan berpotensi meningkatkan risiko.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.2",
+              "capaian": "Manajemen Penanggulangan Bencana di Satuan Pendidikan dan Kesinambungan Pendidikan",
+              "skor_2025": 71.28,
+              "definisi_capaian": "Satuan pendidikan memiliki kebijakan yang terintegrasi, mekanisme koordinasi yang terencana dengan baik, dan sumber daya memadai untuk mengelola risiko bencana yang berkelanjutan sehingga layanan pendidikan tetap aman sebelum, saat, dan sesudah bencana.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.3",
+              "capaian": "Sarana dan Prasarana Keselamatan Bencana",
+              "skor_2025": 95.47,
+              "definisi_capaian": "Satuan pendidikan memiliki prasarana dan sarana pendukung penyelamatan dan evakuasi yang lengkap, terawat, dan berfungsi optimal sehingga mendukung keamanan dan keselamatan warga satuan pendidikan",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.4",
+              "capaian": "Pemahaman dan Sikap Warga Satuan Pendidikan terhadap Perubahan Iklim",
+              "skor_2025": 62.54,
+              "definisi_capaian": "Warga satuan pendidikan memiliki pemahaman yang komprehensif mengenai fenomena perubahan iklim, mampu menumbuhkan sikap positif secara konsisten dan berkelanjutan",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.5",
+              "capaian": "Kebijakan Perubahan Iklim",
+              "skor_2025": 60.75,
+              "definisi_capaian": "Satuan Pendidikan memiliki kebijakan yang konsisten untuk mendukung kelestarian lingkungan hidup, mitigasi dan adaptasi perubahan iklim",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.18.6",
+              "capaian": "Pembelajaran Perubahan Iklim",
+              "skor_2025": 77.12,
+              "definisi_capaian": "Satuan Pendidikan secara konsisten melakukan praktik pengajaran terkait pelestarian lingkungan dan perubahan iklim serta aktif membimbing peserta didik membangun pengetahuan dan pemahaman yang  mendalam",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.3",
+          "capaian": "Pemanfaatan TIK untuk pengelolaan anggaran",
+          "skor_2025": 83.27,
+          "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan dana BOS secara daring yang tinggi",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.3.1",
+              "capaian": "Proporsi pembelanjaan dana BOS secara daring",
+              "skor_2025": 66.54,
+              "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan dana BOS secara daring yang tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.3.2",
+              "capaian": "Indeks penggunaan platform SDS sumberdaya sekolah - ketepatan waktu dan kelengkapan pelaporan",
+              "skor_2025": 100,
+              "definisi_capaian": "Jumlah satuan pendidikan yang membuat laporan tepat waktu di platform SDS tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.5",
+          "capaian": "Program dan kebijakan satuan pendidikan",
+          "skor_2025": 76.57,
+          "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan yang dilaksanakan secara konsisten tentang pencegahan dan penanganan perundungan; hukuman fisik; kekerasan seksual; penyalahgunaan rokok, minuman keras, dan narkoba; kesetaraan gender; dan intoleransi.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.5.1",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang perundungan",
+              "skor_2025": 77.8,
+              "definisi_capaian": "Satuan pendidikan memiliki program dan kebijakan yang dilaksanakan secara konsisten tentang pencegahan dan penanganan perundungan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.2",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang hukuman fisik",
+              "skor_2025": 79.22,
+              "definisi_capaian": "Satuan pendidikan sudah cukup memiliki program dan kebijakan yang dilaksanakan secara konsisten untuk mencegah dan menangani hukuman fisik di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.3",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang kekerasan seksual",
+              "skor_2025": 69.66,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan yang dilaksanakan secara konsisten untuk mencegah dan menangani terjadinya pelecehan seksual di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.4",
+              "capaian": "Program dan kebijakan satuan pendidikan tentang rokok, minuman keras, dan narkoba",
+              "skor_2025": 77.82,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan yang dilaksanakan secara konsisten untuk mencegah dan menangani aktivitas atau kasus penyalahgunaan rokok, minuman keras, dan narkoba di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.5",
+              "capaian": "Program dan Kebijakan mengenai kesetaraan gender",
+              "skor_2025": 75.83,
+              "definisi_capaian": "Satuan pendidikan sudah memiliki program dan kebijakan satuan pendidikan yang mendukung kesetaraan antara laki-laki dan perempuan di satuan pendidikan, namun belum dilaksanakan secara konsisten.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.5.6",
+              "capaian": "Program dan kebijakan mengenai penanggulangan dan pencegahan intoleransi di satuan pendidikan",
+              "skor_2025": 79.12,
+              "definisi_capaian": "Satuan pendidikan telah memiliki dan menjalankan program dan kebijakan tentang pencegahan dan penanganan kasus intoleransi di satuan pendidikan secara konsisten.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "sedang": [
+        {
+          "no": "A.2",
+          "capaian": "Kemampuan numerasi",
+          "skor_2025": 56.67,
+          "definisi_capaian": "40% - 75% peserta didik telah mencapai kompetensi minimum untuk numerasi namun perlu upaya mendorong lebih banyak peserta didik dalam mencapai kompetensi minimum.",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "D.19",
+          "capaian": "Tujuh Kebiasaan Anak Indonesia Hebat",
+          "skor_2025": 6.74,
+          "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya kebiasaaan bangun pagi, beribadah, berolahraga, makan sehat bergizi, gemar belajar, bermasyarakat, dan tidur cepat, tetapi masih perlu dukungan untuk menerapkannya dalam kehidupan sehari-hari.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "D.19.1",
+              "capaian": "Bangun Pagi",
+              "skor_2025": 7.02,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya disiplin mengelola waktu dan mandiri mempersiapkan diri yang berkontribusi positif pada kemampuan mengatur ritme harian dan memulai aktivitas secara tertib.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.2",
+              "capaian": "Beribadah",
+              "skor_2025": 6.83,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya menjadi religius dan bermoral melalui nilai spiritual yang kuat dan penghayatan ajaran agama/kepercayaan yang berkontribusi positif pada konsistensi berdoa/beribadah di rumah dan di satuan pendidikan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.3",
+              "capaian": "Berolahraga",
+              "skor_2025": 5.87,
+              "definisi_capaian": "Peserta didik belum memiliki kesadaran akan pentingnya kerja keras dan disiplin dalam menjaga kebugaran dan kesehatan baik fisik dan mental yang berpengaruh pada rendahnya kemauan dan kebiasaan melakukan aktivitas fisik secara teratur.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.4",
+              "capaian": "Makan Sehat dan Bergizi",
+              "skor_2025": 6.87,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya tanggung jawab terhadap kesehatan diri melalui pemenuhan gizi seimbang sebagai penunjang pertumbuhan dan kecerdasan yang berkontribusi positif pada konsumsi harian yang sehat dan bergizi.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.5",
+              "capaian": "Gemar Belajar",
+              "skor_2025": 6.54,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya rasa ingin tahu dan ketekunan dalam mengembangkan potensi diri yang berkontribusi positif pada kebiasaan menyediakan waktu belajar secara mandiri.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.6",
+              "capaian": "Bermasyarakat",
+              "skor_2025": 7.18,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya kepedulian sosial dan bermanfaat bagi masyarakat yang berkontribusi positif pada kebiasaan berinteraksi sehat dan berkontribusi dalam kegiatan sosial di sekitarnya.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "D.19.7",
+              "capaian": "Tidur Cepat",
+              "skor_2025": 6.87,
+              "definisi_capaian": "Peserta didik sudah memiliki kesadaran akan pentingnya disiplin dan tertib dalam pengelolaan diri untuk memastikan kualitas istirahat yang berkontribusi positif pada kebiasaan tidur yang cukup dan teratur sesuai kebutuhan perkembangan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.1",
+          "capaian": "Partisipasi warga satuan pendidikan",
+          "skor_2025": 69.8,
+          "definisi_capaian": "Satuan pendidikan melibatkan orang tua dan peserta didik dalam beberapa kegiatan di satuan pendidikan khususnya berupa kegiatan akademik dan atau non-akademik.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.1.1",
+              "capaian": "Partisipasi orang tua",
+              "skor_2025": 67.39,
+              "definisi_capaian": "Satuan pendidikan melibatkan orang tua dalam beberapa kegiatan di satuan pendidikan khususnya berupa kegiatan akademik dan atau non-akademik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.1.2",
+              "capaian": "Partisipasi peserta didik",
+              "skor_2025": 72.21,
+              "definisi_capaian": "Satuan pendidikan melibatkan peserta didik dalam beberapa kegiatan di satuan pendidikan khususnya berupa kegiatan akademik dan atau non-akademik.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "E.7",
+          "capaian": "Indeks Fasilitas Satuan Pendidikan",
+          "skor_2025": 58.5,
+          "definisi_capaian": "Satuan Pendidikan memiliki ketersediaan fasilitas sekolah yang sedang",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.7.1",
+              "capaian": "Indeks Fasilitas Ruang Satuan Pendidikan",
+              "skor_2025": 50,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan ruang kelas, perpustakaan, dan laboratorium yang sedang",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.2",
+              "capaian": "Indeks Sanitasi Satuan Pendidikan",
+              "skor_2025": 70,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan air kayak, tempat cuci tangan dengan sabun, dan toilet yang tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.4",
+              "capaian": "Indeks Fasilitas TIK",
+              "skor_2025": 100,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan fasilitas TIK yang tinggi",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.5",
+              "capaian": "Indeks Kelengkapan Ruang Satuan Pendidikan",
+              "skor_2025": 60,
+              "definisi_capaian": "Satuan pendidikan memiliki ketersediaan fasilitas ruang satuan pendidikan yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.7.6",
+              "capaian": "Indeks Kelayakan Ruang Satuan Pendidikan",
+              "skor_2025": 12.5,
+              "definisi_capaian": "Satuan pendidikan memiliki kelayakan fasilitas ruang satuan pendidikan yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "kurang": [
+        {
+          "no": "A.1.skor",
+          "capaian": "Kemampuan literasi",
+          "skor_2025": 58.95,
+          "definisi_capaian": "Nilai rerata peserta didik berdasarkan kemampuan dalam memahami, menggunakan, merefleksi, dan mengevaluasi beragam jenis teks (teks informasional dan teks fiksi).",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "A.1.1",
+              "capaian": "Kompetensi membaca teks informasi",
+              "skor_2025": 60.02,
+              "definisi_capaian": "Nilai rerata peserta didik dalam memahami, menggunakan, merefleksi, dan mengevaluasi teks informasional (non-fiksi).",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.2",
+              "capaian": "Kompetensi membaca teks sastra",
+              "skor_2025": 58.17,
+              "definisi_capaian": "Nilai rerata peserta didik dalam memahami, menggunakan, merefleksi, dan mengevaluasi teks fiksi.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.3",
+              "capaian": "Kompetensi mengakses dan menemukan isi teks (L1)",
+              "skor_2025": 58.26,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menemukan, mengidentifikasi, dan mendeskripsikan suatu ide atau informasi eksplisit dalam teks informasional (non-fiksi) dan sastra.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.4",
+              "capaian": "Kompetensi menginterpretasi dan memahami isi teks (L2)",
+              "skor_2025": 59.19,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan membandingkan dan mengontraskan ide atau informasi dalam atau antarteks, membuat kesimpulan, mengelompokkan, serta mengombinasikan ide dan informasi dalam teks atau antarteks informasional (non-fiksi) dan sastra.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.1.5",
+              "capaian": "Kompetensi mengevaluasi dan merefleksikan isi teks (L3)",
+              "skor_2025": 51.87,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menganalisis, memprediksi, dan menilai konten, bahasa, dan unsur-unsur dalam teks informasional (non-fiksi) dan sastra.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "A.2.skor",
+          "capaian": "Kemampuan numerasi",
+          "skor_2025": 46.81,
+          "definisi_capaian": "Nilai rerata peserta didik berdasarkan kemampuan dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika untuk menyelesaikan masalah sehari-hari pada berbagai jenis konteks yang relevan.",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "A.2.1",
+              "capaian": "Kompetensi pada domain Bilangan",
+              "skor_2025": 47.96,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten bilangan untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.2",
+              "capaian": "Kompetensi pada domain Aljabar",
+              "skor_2025": 47.27,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten aljabar untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.3",
+              "capaian": "Kompetensi pada domain Geometri",
+              "skor_2025": 41.47,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten geometri untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.4",
+              "capaian": "Kompetensi pada domain Data dan Ketidakpastian",
+              "skor_2025": 43.36,
+              "definisi_capaian": "Nilai rerata peserta didik dalam berpikir menggunakan konsep, prosedur, fakta, dan alat matematika pada konten data dan ketidakpastian untuk menyelesaikan masalah sehari-hari.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.5",
+              "capaian": "Kompetensi mengetahui (L1)",
+              "skor_2025": 46.88,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan memahami fakta, proses, konsep, dan prosedur.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.6",
+              "capaian": "Kompetensi menerapkan (L2)",
+              "skor_2025": 43.99,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menerapkan pengetahuan dan pemahaman tentang fakta-fakta, relasi, proses, konsep, prosedur, dan metode pada konten bilangan dengan konteks situasi nyata untuk menyelesaikan masalah atau menjawab pertanyaan.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "A.2.7",
+              "capaian": "Kompetensi menalar (L3)",
+              "skor_2025": 52.92,
+              "definisi_capaian": "Nilai rerata peserta didik pada kemampuan menganalisis data dan informasi, membuat kesimpulan, dan memperluas pemahaman dalam situasi baru, meliputi situasi yang tidak diketahui sebelumnya atau konteks yang lebih kompleks.",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        },
+        {
+          "no": "C.3",
+          "capaian": "Pengalaman Pelatihan PTK",
+          "skor_2025": 0,
+          "definisi_capaian": "Propinsi/Kabupaten/Kota/Satuan Pendidikan sedang merintis dalam keikutsertaan guru dalam pelatihan",
+          "perubahan_skor": null,
+          "sub_indikator": []
+        },
+        {
+          "no": "E.2",
+          "capaian": "Proporsi pemanfaatan sumber daya sekolah untuk peningkatan mutu",
+          "skor_2025": 16.05,
+          "definisi_capaian": "Satuan pendidikan memiliki proporsi pemanfaatan sumber daya sekolah untuk peningkatan mutu yang rendah",
+          "perubahan_skor": null,
+          "sub_indikator": [
+            {
+              "no": "E.2.1",
+              "capaian": "Proporsi pembelanjaan peningkatan mutu guru dan tenaga kependidikan",
+              "skor_2025": 2.38,
+              "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan peningkatan mutu guru dan tenaga kependidikan yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            },
+            {
+              "no": "E.2.2",
+              "capaian": "Proporsi pembelanjaan non personil mutu pembelajaran",
+              "skor_2025": 13.67,
+              "definisi_capaian": "Satuan pendidikan memiliki proporsi pembelanjaan non-personil mutu pembelajaran yang rendah",
+              "perubahan_skor": null,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "ringkasan": {
+        "total_indikator": 29,
+        "jumlah_per_kategori": {
+          "Capaian": 9,
+          "Baik": 12,
+          "Sedang": 4,
+          "Kurang": 4
+        },
+        "rata_rata_skor_2025": 48.58,
+        "indikator_naik": 0,
+        "indikator_turun": 0
+      },
+      "kesimpulan": "Berdasarkan hasil analisis Rapor Pendidikan, dari 29 indikator utama yang dianalisis, sebanyak 12 indikator berada pada predikat Baik, 4 indikator pada predikat Sedang, 4 indikator pada predikat Kurang, dan 9 indikator pada predikat Capaian. Rata-rata skor capaian tahun 2025 adalah 48.58, dengan 0 indikator mengalami peningkatan skor dan 0 indikator mengalami penurunan dibandingkan tahun 2024. Capaian tertinggi terdapat pada indikator Kemampuan literasi dengan skor 83.33, sedangkan capaian terendah pada indikator Proporsi peserta didik dengan kemampuan literasi jauh di bawah kompetensi minimum dengan skor 0. Terdapat 4 indikator yang masih berpredikat <span class=\"hl-kurang\">Kurang</span> sehingga menjadi fokus utama intervensi sekolah, yaitu: <span class=\"hl-kurang\">1) Kemampuan literasi</span> (skor 58.95); <span class=\"hl-kurang\">2) Kemampuan numerasi</span> (skor 46.81); <span class=\"hl-kurang\">3) Pengalaman Pelatihan PTK</span> (skor 0); <span class=\"hl-kurang\">4) Proporsi pemanfaatan sumber daya sekolah untuk peningkatan mutu</span> (skor 16.05)."
+    },
+    "created_at": "2026-09-14T16:32:13.111Z"
+  },
+  {
+    "id": 5,
+    "nama_sekolah": "SMA Negeri 1 Contoh",
+    "tahun": "2025",
+    "filename": "test1.xlsx",
+    "total_indikator": 3,
+    "rata_rata_skor": 65.17,
+    "indikator_naik": 1,
+    "indikator_turun": 2,
+    "jumlah_baik": 1,
+    "jumlah_sedang": 1,
+    "jumlah_kurang": 1,
+    "data": {
+      "judul": "Analisis Rapor Pendidikan SMA Negeri 1 Contoh Tahun 2025",
+      "capaian": [],
+      "baik": [
+        {
+          "no": "A.1",
+          "capaian": "Kemampuan Literasi",
+          "skor_2025": 78.5,
+          "definisi_capaian": "Definisi Literasi",
+          "perubahan_skor": 2.3,
+          "sub_indikator": [
+            {
+              "no": "A.1.1",
+              "capaian": "Kompetensi membaca teks sastra",
+              "skor_2025": 80,
+              "definisi_capaian": "Membaca teks sastra",
+              "perubahan_skor": 1.5,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "sedang": [
+        {
+          "no": "A.2",
+          "capaian": "Kemampuan Numerasi",
+          "skor_2025": 65,
+          "definisi_capaian": "Definisi Numerasi",
+          "perubahan_skor": -1.2,
+          "sub_indikator": []
+        }
+      ],
+      "kurang": [
+        {
+          "no": "A.3",
+          "capaian": "Karakter",
+          "skor_2025": 52,
+          "definisi_capaian": "Definisi Karakter",
+          "perubahan_skor": -3,
+          "sub_indikator": []
+        }
+      ],
+      "ringkasan": {
+        "total_indikator": 3,
+        "jumlah_per_kategori": {
+          "Capaian": 0,
+          "Baik": 1,
+          "Sedang": 1,
+          "Kurang": 1
+        },
+        "rata_rata_skor_2025": 65.17,
+        "indikator_naik": 1,
+        "indikator_turun": 2
+      },
+      "kesimpulan": "Berdasarkan hasil analisis Rapor Pendidikan, dari 3 indikator utama yang dianalisis, sebanyak 1 indikator berada pada predikat Baik, 1 indikator pada predikat Sedang, 1 indikator pada predikat Kurang, dan 0 indikator pada predikat Capaian. Rata-rata skor capaian tahun 2025 adalah 65.17, dengan 1 indikator mengalami peningkatan skor dan 2 indikator mengalami penurunan dibandingkan tahun 2024. Capaian tertinggi terdapat pada indikator Kemampuan Literasi dengan skor 78.5, sedangkan capaian terendah pada indikator Karakter dengan skor 52. Terdapat 1 indikator yang masih berpredikat <span class=\"hl-kurang\">Kurang</span> sehingga menjadi fokus utama intervensi sekolah, yaitu: <span class=\"hl-kurang\">1) Karakter</span> (skor 52)."
+    },
+    "created_at": "2026-09-14T16:28:00.211Z"
+  },
+  {
+    "id": 4,
+    "nama_sekolah": "SMA Negeri 1 Contoh",
+    "tahun": "2025",
+    "filename": "test1.xlsx",
+    "total_indikator": 3,
+    "rata_rata_skor": 65.17,
+    "indikator_naik": 1,
+    "indikator_turun": 2,
+    "jumlah_baik": 1,
+    "jumlah_sedang": 1,
+    "jumlah_kurang": 1,
+    "data": {
+      "judul": "Analisis Rapor Pendidikan SMA Negeri 1 Contoh Tahun 2025",
+      "capaian": [],
+      "baik": [
+        {
+          "no": "A.1",
+          "capaian": "Kemampuan Literasi",
+          "skor_2025": 78.5,
+          "definisi_capaian": "Definisi Literasi",
+          "perubahan_skor": 2.3,
+          "sub_indikator": [
+            {
+              "no": "A.1.1",
+              "capaian": "Kompetensi membaca teks sastra",
+              "skor_2025": 80,
+              "definisi_capaian": "Membaca teks sastra",
+              "perubahan_skor": 1.5,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "sedang": [
+        {
+          "no": "A.2",
+          "capaian": "Kemampuan Numerasi",
+          "skor_2025": 65,
+          "definisi_capaian": "Definisi Numerasi",
+          "perubahan_skor": -1.2,
+          "sub_indikator": []
+        }
+      ],
+      "kurang": [
+        {
+          "no": "A.3",
+          "capaian": "Karakter",
+          "skor_2025": 52,
+          "definisi_capaian": "Definisi Karakter",
+          "perubahan_skor": -3,
+          "sub_indikator": []
+        }
+      ],
+      "ringkasan": {
+        "total_indikator": 3,
+        "jumlah_per_kategori": {
+          "Capaian": 0,
+          "Baik": 1,
+          "Sedang": 1,
+          "Kurang": 1
+        },
+        "rata_rata_skor_2025": 65.17,
+        "indikator_naik": 1,
+        "indikator_turun": 2
+      },
+      "kesimpulan": "Berdasarkan hasil analisis Rapor Pendidikan, dari 3 indikator utama yang dianalisis, sebanyak 1 indikator berada pada predikat Baik, 1 indikator pada predikat Sedang, 1 indikator pada predikat Kurang, dan 0 indikator pada predikat Capaian. Rata-rata skor capaian tahun 2025 adalah 65.17, dengan 1 indikator mengalami peningkatan skor dan 2 indikator mengalami penurunan dibandingkan tahun 2024. Capaian tertinggi terdapat pada indikator Kemampuan Literasi dengan skor 78.5, sedangkan capaian terendah pada indikator Karakter dengan skor 52. Terdapat 1 indikator yang masih berpredikat <span class=\"hl-kurang\">Kurang</span> sehingga menjadi fokus utama intervensi sekolah, yaitu: <span class=\"hl-kurang\">1) Karakter</span> (skor 52)."
+    },
+    "created_at": "2026-09-14T16:27:55.173Z"
+  },
+  {
+    "id": 3,
+    "nama_sekolah": "SMA Negeri 1 Contoh",
+    "tahun": "2025",
+    "filename": "test1.xlsx",
+    "total_indikator": 3,
+    "rata_rata_skor": 65.17,
+    "indikator_naik": 1,
+    "indikator_turun": 2,
+    "jumlah_baik": 1,
+    "jumlah_sedang": 1,
+    "jumlah_kurang": 1,
+    "data": {
+      "judul": "Analisis Rapor Pendidikan SMA Negeri 1 Contoh Tahun 2025",
+      "capaian": [],
+      "baik": [
+        {
+          "no": "A.1",
+          "capaian": "Kemampuan Literasi",
+          "skor_2025": 78.5,
+          "definisi_capaian": "Definisi Literasi",
+          "perubahan_skor": 2.3,
+          "sub_indikator": [
+            {
+              "no": "A.1.1",
+              "capaian": "Kompetensi membaca teks sastra",
+              "skor_2025": 80,
+              "definisi_capaian": "Membaca teks sastra",
+              "perubahan_skor": 1.5,
+              "sub_indikator": []
+            }
+          ]
+        }
+      ],
+      "sedang": [
+        {
+          "no": "A.2",
+          "capaian": "Kemampuan Numerasi",
+          "skor_2025": 65,
+          "definisi_capaian": "Definisi Numerasi",
+          "perubahan_skor": -1.2,
+          "sub_indikator": []
+        }
+      ],
+      "kurang": [
+        {
+          "no": "A.3",
+          "capaian": "Karakter",
+          "skor_2025": 52,
+          "definisi_capaian": "Definisi Karakter",
+          "perubahan_skor": -3,
+          "sub_indikator": []
+        }
+      ],
+      "ringkasan": {
+        "total_indikator": 3,
+        "jumlah_per_kategori": {
+          "Capaian": 0,
+          "Baik": 1,
+          "Sedang": 1,
+          "Kurang": 1
+        },
+        "rata_rata_skor_2025": 65.17,
+        "indikator_naik": 1,
+        "indikator_turun": 2
+      },
+      "kesimpulan": "Berdasarkan hasil analisis Rapor Pendidikan, dari 3 indikator utama yang dianalisis, sebanyak 1 indikator berada pada predikat Baik, 1 indikator pada predikat Sedang, 1 indikator pada predikat Kurang, dan 0 indikator pada predikat Capaian. Rata-rata skor capaian tahun 2025 adalah 65.17, dengan 1 indikator mengalami peningkatan skor dan 2 indikator mengalami penurunan dibandingkan tahun 2024. Capaian tertinggi terdapat pada indikator Kemampuan Literasi dengan skor 78.5, sedangkan capaian terendah pada indikator Karakter dengan skor 52. Terdapat 1 indikator yang masih berpredikat <span class=\"hl-kurang\">Kurang</span> sehingga menjadi fokus utama intervensi sekolah, yaitu: <span class=\"hl-kurang\">1) Karakter</span> (skor 52)."
+    },
+    "created_at": "2026-09-14T16:27:53.131Z"
+  },
+  {
+    "id": 1,
+    "nama_sekolah": "UPT SD NEGERI 003 LUBUK SAKAT",
+    "tahun": "2025",
+    "filename": "Rapor_Pendidikan_SDN_003_Lubuk_Sakat_2025.xlsx",
+    "total_indikator": 6,
+    "rata_rata_skor": 68.42,
+    "indikator_naik": 4,
+    "indikator_turun": 2,
+    "jumlah_baik": 3,
+    "jumlah_sedang": 2,
+    "jumlah_kurang": 1,
+    "data": {
+      "judul": "Analisis Rapor Pendidikan UPT SD NEGERI 003 LUBUK SAKAT Tahun 2025",
+      "ringkasan": {
+        "total_indikator": 6,
+        "jumlah_per_kategori": {
+          "Capaian": 0,
+          "Baik": 3,
+          "Sedang": 2,
+          "Kurang": 1
+        },
+        "rata_rata_skor_2025": 68.42,
+        "indikator_naik": 4,
+        "indikator_turun": 2
+      },
+      "kesimpulan": "Berdasarkan hasil analisis Rapor Pendidikan, dari 6 indikator utama yang dianalisis, sebanyak 3 indikator berada pada predikat Baik, 2 indikator pada predikat Sedang, 1 indikator pada predikat Kurang, dan 0 indikator pada predikat Capaian. Rata-rata skor capaian tahun 2025 adalah 68.42, dengan 4 indikator mengalami peningkatan skor dan 2 indikator mengalami penurunan dibandingkan tahun 2024. Capaian tertinggi terdapat pada indikator Iklim Keamanan Sekolah dengan skor 78.5, sedangkan capaian terendah pada indikator Kemampuan Literasi dengan skor 54.2. Terdapat 1 indikator yang masih berpredikat <span class=\"hl-kurang\">Kurang</span> sehingga menjadi fokus utama intervensi sekolah, yaitu: <span class=\"hl-kurang\">1) Kemampuan Literasi</span> (skor 54.2).",
+      "capaian": [],
+      "baik": [
+        {
+          "no": "D.8",
+          "capaian": "Iklim Keamanan Sekolah",
+          "skor_2025": 78.5,
+          "definisi_capaian": "Kondisi lingkungan sekolah yang aman dan kondusif",
+          "perubahan_skor": 4.2,
+          "sub_indikator": []
+        },
+        {
+          "no": "D.1",
+          "capaian": "Kualitas Pembelajaran",
+          "skor_2025": 72.1,
+          "definisi_capaian": "Manajemen kelas dan instruksi pembelajaran",
+          "perubahan_skor": 2.5,
+          "sub_indikator": []
+        },
+        {
+          "no": "D.3",
+          "capaian": "Kepemimpinan Instruksional",
+          "skor_2025": 70,
+          "definisi_capaian": "Visi pembelajaran kepala sekolah",
+          "perubahan_skor": 1.8,
+          "sub_indikator": []
+        }
+      ],
+      "sedang": [
+        {
+          "no": "A.2",
+          "capaian": "Kemampuan Numerasi",
+          "skor_2025": 65.4,
+          "definisi_capaian": "Kompetensi peserta didik dalam pemecahan masalah matematika",
+          "perubahan_skor": -1.2,
+          "sub_indikator": []
+        },
+        {
+          "no": "A.3",
+          "capaian": "Karakter",
+          "skor_2025": 66.3,
+          "definisi_capaian": "Penerapan Profil Pelajar Pancasila",
+          "perubahan_skor": 0.5,
+          "sub_indikator": []
+        }
+      ],
+      "kurang": [
+        {
+          "no": "A.1",
+          "capaian": "Kemampuan Literasi",
+          "skor_2025": 54.2,
+          "definisi_capaian": "Kompetensi membaca dan analisis teks peserta didik",
+          "perubahan_skor": -3.5,
+          "sub_indikator": []
+        }
+      ]
+    },
+    "created_at": "2026-09-14T13:08:00.921Z"
+  }
+]

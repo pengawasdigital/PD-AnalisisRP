@@ -1,0 +1,8 @@
+{
+  "name": "Remix analisis-rapor-pendidikan.-v.1.2",
+  "description": "Imported from GitHub: basoeky/analisis-rapor-pendidikan.-v.1.2",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
