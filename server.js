@@ -16,7 +16,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json({ limit: '50mb' }));
@@ -953,7 +953,23 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(htmlDir, 'index.html'));
 });
 
-// Start server on 0.0.0.0:3000
-app.listen(PORT, '0.0.0.0', () => {
+// Start server on 0.0.0.0:PORT
+const server = app.listen(PORT, '0.0.0.0', () => {
   console.log(`Server running on http://0.0.0.0:${PORT}`);
+});
+
+process.on('SIGTERM', () => {
+  console.log('SIGTERM signal received: closing HTTP server');
+  server.close(() => {
+    console.log('HTTP server closed');
+    process.exit(0);
+  });
+});
+
+process.on('SIGINT', () => {
+  console.log('SIGINT signal received: closing HTTP server');
+  server.close(() => {
+    console.log('HTTP server closed');
+    process.exit(0);
+  });
 });

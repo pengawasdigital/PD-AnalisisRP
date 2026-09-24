@@ -1,20 +1,15 @@
-FROM python:3.11-slim
+FROM node:20-slim
 
 WORKDIR /app
 
-ENV PYTHONDONTWRITEBYTECODE=1
-ENV PYTHONUNBUFFERED=1
+# Install dependencies first for efficient docker caching
+COPY package*.json ./
+RUN npm ci --omit=dev || npm install --omit=dev
 
-COPY requirements.txt .
+# Copy app source
+COPY . .
 
-RUN pip install --no-cache-dir -r requirements.txt
+ENV PORT=3000
+EXPOSE 3000
 
-COPY main.py .
-COPY logo-kampar.png .
-
-RUN mkdir -p html
-COPY html/index.html html/index.html
-
-EXPOSE 8080
-
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["node", "server.js"]
